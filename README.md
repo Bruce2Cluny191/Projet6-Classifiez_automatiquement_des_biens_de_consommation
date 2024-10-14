@@ -1,5 +1,7 @@
 # Classification Automatique des Biens de Consommation
 
+<img src="https://user.oc-static.com/upload/2019/02/24/15510259240381_Projet%20textimage%20logo.png" />
+
 ## Contexte
 
 Dans le cadre du développement d'une marketplace e-commerce, l'entreprise "Place de marché” souhaite automatiser la classification des articles pour améliorer la fiabilité et la fluidité de l'expérience utilisateur. Actuellement, les vendeurs attribuent manuellement des catégories aux articles, ce qui peut être peu fiable.
